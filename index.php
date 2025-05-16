@@ -8,12 +8,12 @@
 </head>
 <body>
  <?php include 'header.php';?>
-<main>
-
-
 
 <main>
 
+
+
+<main>
 
  <?php include 'footer.php';?>  
 </body>
