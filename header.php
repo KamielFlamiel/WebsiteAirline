@@ -4,4 +4,4 @@
                 <img class="logo-image" src="img/Teto_logo" alt="">
             </div>
         </div>
-    </header>
+</header>
