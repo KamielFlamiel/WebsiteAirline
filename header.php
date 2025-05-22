@@ -11,6 +11,6 @@
     </div>
 
     <div class="header-logo">
-        <img src="img/Teto_logo.png" alt="">
+        <img class="logo-image" src="img/Teto_logo.png" alt="">
     </div>
 </header>
