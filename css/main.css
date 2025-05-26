@@ -27,6 +27,7 @@ header {
     width: 100%;
     height: 20vh;
     border-bottom: 3px solid #fff;
+
 }
 
 .nav-bar {
@@ -66,6 +67,17 @@ ul a {
 .logo-image {
     width: 100%;
     height: 100%;
+}
+
+.login-container {
+    display: flex;
+    align-items: center;
+    background-color: #E5235E;
+    justify-content: center;
+    width: 10%;
+    height: 40%;
+    border: 3px solid #fff;
+    border-radius: 5px;
 }
 
 .background-image {
