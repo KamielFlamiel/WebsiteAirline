@@ -18,7 +18,9 @@
     <?php include 'header.php'; ?>
 
     <main>
-
+        <div class="background-image">
+            <img src="/img/group 5.png" alt="">
+        </div>
 
 
     </main>
