@@ -22,12 +22,13 @@ header {
 .header-container {
     display: flex;
     background-color: #FF0045;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
-    width: 100%;
+    
     height: 20vh;
     border-bottom: 3px solid #fff;
-
+    gap: 15%;
+    padding-right: 5%;
 }
 
 .nav-bar {
@@ -35,7 +36,7 @@ header {
     align-items: center;
     background-color: #E5235E;
     justify-content: center;
-    width: 35%;
+    width: 40%;
     height: 40%;
     border: 3px solid #fff;
     border-radius: 5px;
@@ -79,6 +80,19 @@ ul a {
     border: 3px solid #fff;
     border-radius: 5px;
 }
+
+.login-container :hover {
+    cursor: pointer;
+}
+
+.login-text {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+}
+
 
 .background-image {
     width: 40%;
