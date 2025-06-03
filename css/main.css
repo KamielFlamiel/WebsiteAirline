@@ -99,8 +99,23 @@ ul a {
 main {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     height: 145vh;
     width: 100%;
     background-image: url("../img/Group-5.png");
+}
 
+.select-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 90px;
+    width: 80%;
+    height: 20%;
+    background-color: #FF0045;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    border: 3px solid #fff;
+    border-left: none;
 }
