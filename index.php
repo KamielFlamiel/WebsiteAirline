@@ -18,12 +18,10 @@
     <?php include 'header.php'; ?>
 
     <main>
-        <div class="background-image"></div>
-
         
-
-        <div class="select-container"></div>
-
+        <div class="select-container">
+            
+        </div>
 
     </main>
 
