@@ -20,7 +20,13 @@
     <main>
         
         <div class="select-container">
-            <div class="selectie-1"></div>
+            <div class="select-all">
+                <div class="select-from"></div>
+                <div class="select-to"></div>
+                <div class="select-depart"></div>
+                <div class="select-return"></div>
+                <div class="select-class"></div>
+            </div>
         </div>
 
     </main>

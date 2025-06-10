@@ -107,11 +107,11 @@ main {
 
 .select-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     margin-bottom: 90px;
-    width: 80%;
+    width: 82.5%;
     height: 20%;
     background-color: #FF0045;
     border-bottom-right-radius: 3px;
@@ -120,14 +120,70 @@ main {
     border-left: none;
 }
 
-.selectie-1 {
+.select-all {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    justify-content: ;
+    justify-content: center;
+    width: 90%;
+    height: 100%;
+}
+
+.select-from {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
     width: 50%;
-    height: 50%;
+    height: 40%;
     background-color: #E5235E;
     border: 3px solid #fff;
-    border-radius: 3px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.select-to {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 40%;
+    background-color: #E5235E;
+    border: 3px solid #fff;
+}
+
+.select-depart {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    height: 40%;
+    background-color: #E5235E;
+    border: 3px solid #fff;
+}
+
+.select-return {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    height: 40%;
+    background-color: #E5235E;
+    border: 3px solid #fff;
+}
+
+.select-class {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 40%;
+    background-color: #E5235E;
+    border: 3px solid #fff;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
 }
