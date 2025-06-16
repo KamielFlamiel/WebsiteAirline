@@ -20,6 +20,9 @@
     <main>
         
         <div class="select-container">
+            <div class="select-title">
+                <h1>from</h1>
+            </div>
             <div class="select-all">
                 <div class="select-from"></div>
                 <div class="select-to"></div>
